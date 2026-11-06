@@ -29,7 +29,7 @@ It uses Telethon in userbot mode, which allows it to act like a real Telegram us
 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/vincevision/telegram-terabox-backup.git
 cd telegram-terabox-backup
 ```
 
